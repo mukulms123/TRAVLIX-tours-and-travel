@@ -1,4 +1,4 @@
-# TRAVLIX--tours-and-travel
+# TRAVLIX-tours-and-travel
 This repository contains a website for newbies in HTML, PHP, CSS, Java-script. Which can also send mail to the web master using webhooks.
 
 ## OBJECTIVE:
